@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Github_Main_Folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}
